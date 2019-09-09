@@ -7,7 +7,8 @@ Api endpoint link http://fakerestapi.tk/api/v1/todo_lists
 
 Example
 
-```curl -X GET http://fakerestapi.tk/api/v1/todo_lists
+```
+curl -X GET http://fakerestapi.tk/api/v1/todo_lists
 [
   {
 	  "id" : 1,
@@ -19,5 +20,6 @@ Example
   }
   ......
   ......
-]```
+]
+```
         
