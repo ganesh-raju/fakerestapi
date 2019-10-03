@@ -34,3 +34,10 @@ curl -X GET http://fakerestapi.tk/api/v1/todo_lists
 ]
 ```
         
+
+Fake rest api with CURL http://fakerestapi.tk/fetch_data_with_curl
+
+Fake rest api with jQuery http://fakerestapi.tk/jquery_ajax
+
+Fake rest api with ruby http://localhost:3000/ruby_rest_client_with_fake_rest_api
+
