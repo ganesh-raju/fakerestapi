@@ -1,25 +1,29 @@
+*Note Domain name changed from fakerestapi.tk to ***fakerestapi.com***
+
+
+
 fake REST API
-http://fakerestapi.tk
+http://fakerestapi.com
 
 REST API for developers to test and prototyping of sample applications.
 
 Download csv files 
-http://fakerestapi.tk/download_csv_files
+http://fakerestapi.com/download_csv_files
 Available CSV files
 
 1. Products - 2000 records
 2. Todo lists - 1000 records
 3. Todo items - 2000 records
 
-visit http://fakerestapi.tk  to know about total records and fields in csv datasets
+visit http://fakerestapi.com  to know about total records and fields in csv datasets
 
 
-Api endpoint link http://fakerestapi.tk/api/v1/todo_lists
+Api endpoint link http://fakerestapi.com/api/v1/todo_lists
 
 Example
 
 ```
-curl -X GET http://fakerestapi.tk/api/v1/todo_lists
+curl -X GET http://fakerestapi.com/api/v1/todo_lists
 [
   {
 	  "id" : 1,
@@ -37,8 +41,8 @@ curl -X GET http://fakerestapi.tk/api/v1/todo_lists
 
 
 
-Fake rest api with CURL http://fakerestapi.tk/fetch_data_with_curl
+Fake rest api with CURL http://fakerestapi.com/fetch_data_with_curl
 
-Fake rest api with jQuery http://fakerestapi.tk/jquery_ajax
+Fake rest api with jQuery http://fakerestapi.com/jquery_ajax
 
-Fake rest api with ruby http://fakerestapi.tk/ruby_rest_client_with_fake_rest_api
+Fake rest api with ruby http://fakerestapi.com/ruby_rest_client_with_fake_rest_api
