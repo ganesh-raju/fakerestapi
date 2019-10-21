@@ -1,13 +1,11 @@
 *Note Domain name changed from fakerestapi.tk to ***fakerestapi.com***
 
-
-
-fake REST API
+**fake online REST API**
 https://fakerestapi.com
 
 REST API for developers to test and prototyping of sample applications.
 
-Download csv files 
+***Download free csv data sets***
 https://fakerestapi.com/download_csv_files
 Available CSV files
 
@@ -38,8 +36,6 @@ curl -X GET https://fakerestapi.com/api/v1/todo_lists
 ]
 ```
         
-
-
 
 Fake rest api with CURL https://fakerestapi.com/fetch_data_with_curl
 
